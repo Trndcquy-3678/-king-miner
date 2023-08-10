@@ -8,7 +8,7 @@ king miner is a Bitcoin, stable coin miner for Android
 - eth
 - and lot of crypto
 # ❓ how to install
--  clone the repository
+-  clone the repository (work in termux)
 -  go to the *king-miner* folder
 -  run *bash install.sh*
 -  after complete,edit file *run.sh* with the information below
